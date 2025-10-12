@@ -1,5 +1,5 @@
 
-# 💻 Data Analyst | BI Consultant | Data Science and ML Enthusiast
+# 💻 Data Analyst | Data Science and ML Enthusiast
 
 Welcome to my GitHub portfolio — a curated collection of my data projects that combine strong **business understanding**, **technical execution**, and **storytelling through insights**.
 
@@ -16,11 +16,11 @@ I specialize in:
 I'm a data analyst with a Master's in Data Analytics and a background in Finance. I bring the rare mix of **domain knowledge** and **technical skills**, enabling me to drive value across both business and academic data challenges.
 
 **🔹 Education:**
-- 🎓 Master of Data Analytics — University of Kelaniya (2022–2023)
+- 🎓 Master of Data Analytics — (2022–2023)
 - 📘 BSc (Hons) Accounting & Finance (2015–2018)
 
 **🔹 Work Experience:**
-- 💼 IT Risk Advisory Consultant / Data Analyst at Deloitte (2022–Present)
+- 💼 IT Risk Advisory Consultant / Data Analyst (2022–Present)
 - 📊 Business Analytics Intern – PMSquare (2019–2020)
 
 ---
