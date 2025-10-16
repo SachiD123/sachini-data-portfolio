@@ -1,67 +1,45 @@
-
-# 💻 Data Analyst | Data Science and ML Enthusiast
-
-Welcome to my GitHub portfolio — a curated collection of my data projects that combine strong **business understanding**, **technical execution**, and **storytelling through insights**.
-
-I specialize in:
-- 🎓 **Thesis & dissertation data analysis** (R, Excel, Power BI)
-- 📊 **Business Intelligence dashboards** (Power BI)
-- 🤖 **Machine learning models** (Python, Jupyter)
-- 🧹 **Data cleaning, wrangling, and transformation** (SQL, R, Python)
+# 🎯 Data Portfolio
+A curated collection of **Data Analytics**, **Business Intelligence**, and **Machine Learning** projects — designed to demonstrate real-world business impact and technical skill.
 
 ---
 
-## 🧠 About Me
+## 📁 Featured Projects
 
-I'm a data analyst with a Master's in Data Analytics and a background in Finance. I bring the rare mix of **domain knowledge** and **technical skills**, enabling me to drive value across both business and academic data challenges.
-
-**🔹 Education:**
-- 🎓 Master of Data Analytics — (2022–2023)
-- 📘 BSc (Hons) Accounting & Finance (2015–2018)
-
-**🔹 Work Experience:**
-- 💼 IT Risk Advisory Consultant / Data Analyst (2022–Present)
-- 📊 Business Analytics Intern – PMSquare (2019–2020)
+| Project | Focus Area | Tools | Description |
+|----------|-------------|--------|--------------|
+| [ForecastPro-BI](../ForecastPro-BI) | Sales Forecasting | Power BI, Python | Forecasts sales trends using ML models integrated into Power BI dashboards |
+| [Ride-hailing-BI-case-study](../Ride-hailing-BI-case-study) | Business Performance | Power BI | BI solution analyzing driver, customer, and region-based KPIs |
+| [Customer-Churn-ML](../Customer-Churn-ML) | Predictive Analytics | Python, Scikit-learn | Classification model predicting at-risk customers with feature importance insights |
+| [Fabric-DataWarehouse](../Fabric-DataWarehouse) | Data Architecture | Microsoft Fabric | Demonstrates Medallion architecture for enterprise-level analytics |
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tools |
-|--------|-------------|-------|
-| [📈 Customer Churn Prediction](./Projects/Churn_Modeling) | Built a machine learning model to predict customer churn and designed retention strategies. | Python, scikit-learn, pandas |
-| [📊 Power BI Supermarket Dashboard](./Projects/Supermarket_Dashboard) | Developed an interactive BI dashboard for sales and inventory analytics. | Power BI, DAX |
-| [🎓 Thesis Data Analysis Template](./Projects/Thesis_Analysis_R) | Sample academic data analysis with visuals, hypothesis testing, and report structure. | R, Excel, ggplot2 |
-| [🏗️ Data Warehouse Simulation](./Projects/Data_Warehouse_SQL) | Modeled a retail sales star schema and wrote SQL queries for analytics. | SQL, ERD, PostgreSQL |
+## 🧩 Skills Demonstrated
+- **Data Preparation & ETL:** Cleaning and transforming raw data for modeling and BI  
+- **Exploratory Data Analysis:** Identifying trends, anomalies, and business drivers  
+- **Predictive Modeling:** Building and evaluating machine learning models  
+- **Data Visualization:** Storytelling through dashboards (Power BI)  
+- **Data Warehousing:** Applying medallion architecture and semantic modeling  
 
 ---
 
-## 💼 Services I Offer (Freelance)
-
-- 📘 **Thesis/dissertation data analysis**
-- 📊 **Dashboard creation for business/reporting**
-- 🧼 **Data cleaning and formatting**
-- 📄 **PDF reports, insights summary, and code handover**
-
-🔗 Reach out via [LinkedIn](https://www.linkedin.com/in/yourprofile) or [Fiverr](https://www.fiverr.com/yourgig)  
-📬 Contact: yourname@email.com
+## 📈 Business Impact Focus
+Each project is built to answer a real-world business question:
+- How can forecasting improve inventory and revenue planning?  
+- Which customers are at risk of churn and why?  
+- What KPIs best measure performance for a ride-hailing business?  
+- How can a data warehouse support scalable analytics in modern BI tools?  
 
 ---
 
-## 📚 Skills & Tools
+## 📬 Connect & Collaborate
+💼 I’m open to:
+- Freelance Power BI and ML projects  
+- Collaborations on data analytics case studies  
+- Guest writing and tutorials  
 
-**Languages**: Python, R, SQL, DAX, Excel  
-**Tools**: Power BI, Jupyter, RStudio, Git, Excel, PostgreSQL  
-**Specialties**: Data analysis, BI storytelling, Machine learning, Academic research support
-
----
-
-## 📌 Quick Links
-- [Projects Folder](./Projects)
-- [Jupyter Notebooks](./Jnotebooks)
-- [Images & Dashboards](./Images)
-- [Coursework (Archived)](./Coursework)
+📩 Reach me via [LinkedIn](#) or explore more at [Medium](#).
 
 ---
 
-_This portfolio is a live work-in-progress — check back often for new projects._
+> **“Data isn’t valuable until it drives action — every project here aims to do exactly that.”**
