@@ -7,10 +7,10 @@ A curated collection of **Data Analytics**, **Business Intelligence**, and **Mac
 
 | Project | Focus Area | Tools | Description |
 |----------|-------------|--------|--------------|
-| [ForecastPro-BI](../ForecastPro-BI) | Sales Forecasting | Power BI, Python | Forecasts sales trends using ML models integrated into Power BI dashboards |
-| [Ride-hailing-BI-case-study](../Ride-hailing-BI-case-study) | Business Performance | Power BI | BI solution analyzing driver, customer, and region-based KPIs |
+| [ForecastPro-BI]([../ForecastPro-BI](https://github.com/SachiD123/-ForecastPro-BI) | Sales Forecasting | Power BI, Python | Forecasts sales trends using ML models integrated into Power BI dashboards |
+| [Ride-hailing-BI-case-study](https://github.com/SachiD123/Ride-hailing-BI-case-study) | Business Performance | Power BI | BI solution analyzing driver, customer, and region-based KPIs |
 | [Customer-Churn-ML](../Customer-Churn-ML) | Predictive Analytics | Python, Scikit-learn | Classification model predicting at-risk customers with feature importance insights |
-| [Fabric-DataWarehouse](../Fabric-DataWarehouse) | Data Architecture | Microsoft Fabric | Demonstrates Medallion architecture for enterprise-level analytics |
+| [Fabric-DataWarehouse](https://github.com/SachiD123/SQL-Data-Warehouse-Project) | Data Architecture | Microsoft Fabric | Demonstrates Medallion architecture for enterprise-level analytics |
 
 ---
 
